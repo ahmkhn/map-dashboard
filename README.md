@@ -1,6 +1,6 @@
 A front-end web application that allows you to visualize geographical data including the highlighting of three United States' states; Arizona, Colorado, Maine.
 Built with JavaScript, React.js, CSS, HTML
-Built as a micro-internship project for Open Avenues, collaborating with a Software Engineer from Rhombus Power Inc. as a mentor and two other software engineers as co-workers.
+Built as a micro-internship project for Open Avenues, collaborating with a Software Engineer from Rhombus Power Inc. as a mentor and two other software engineers as a team.
 
 
 Starting the web app:
