@@ -12,13 +12,11 @@ Upon running the command, the app starts successfully:
 
 
 Features:
-\n
 
 Slider built with react-slider which allows you to change the opacity of the highlighted state. (Filling + Border)
 
-\n
-
 Examples:
+
 ![image](https://github.com/ahmkhn/map-dashboard/assets/104601942/a710117f-7e7f-4f57-85e9-4164f3d590f3)
 ![image](https://github.com/ahmkhn/map-dashboard/assets/104601942/3ac580bf-5d79-41b8-859b-4fff174efa27)
 
