@@ -1,6 +1,6 @@
 A front-end web application that allows you to visualize geographical data including the highlighting of three United States' states; Arizona, Colorado, Maine.
 Built with JavaScript, React.js, CSS, HTML
-Built as a micro-internship project for Open Avenues, collaborating with a Software Engineer from Rhombus Power Inc. as a mentor and two other software engineers as co-workers.
+Built as a micro-internship project for Open Avenues, collaborating with a Software Engineer from Rhombus Power Inc. as a mentor and two other software engineers as co-workers. \n
 Starting the web app:
 ![image](https://github.com/ahmkhn/map-dashboard/assets/104601942/bf6cad37-fab7-434b-a305-664f35f9b30e)
 
@@ -10,6 +10,7 @@ Upon running the command, the app starts successfully:
 
 
 Features:
+\n
 
 Slider built with react-slider which allows you to change the opacity of the highlighted state. (Filling + Border)
 
